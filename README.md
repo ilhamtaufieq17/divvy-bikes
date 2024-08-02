@@ -1,4 +1,3 @@
-readme_content = """
 # Divvy Bike Analysis and Marketing Strategy
 
 ## Introduction
@@ -27,7 +26,3 @@ To significantly boost conversion rates, we suggest targeting existing Divvy bik
 ## Conclusion
 The analysis provides valuable insights into the behavior and preferences of Divvy bike users. By leveraging these insights, the proposed marketing strategies aim to enhance user engagement and increase the number of subscribers, ultimately driving growth for the company.
 """
-
-# Save the content to README.md file
-with open('/mnt/data/README.md', 'w') as f:
-    f.write(readme_content)
