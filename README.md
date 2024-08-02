@@ -25,4 +25,3 @@ To significantly boost conversion rates, we suggest targeting existing Divvy bik
 
 ## Conclusion
 The analysis provides valuable insights into the behavior and preferences of Divvy bike users. By leveraging these insights, the proposed marketing strategies aim to enhance user engagement and increase the number of subscribers, ultimately driving growth for the company.
-"""
